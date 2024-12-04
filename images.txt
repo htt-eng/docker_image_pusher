@@ -1,1 +1,1 @@
---platform=linux/arm64 verdaccio/verdaccio
+--platform=linux/arm64 nginx
